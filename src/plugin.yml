@@ -1,0 +1,11 @@
+main: com.totoka28.plugin.Main
+name: GameZonePl
+author: boys4code_totoka28
+description: GameZone szervernek készült egyedi plugin
+version: 1.0
+commands:
+  joinmsg:
+    permission: gamezone.joinsmg
+  leavemsg:
+    permission: gamezone.leavemsg
+  uptime:
